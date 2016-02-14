@@ -16,6 +16,9 @@ logo        :
 This is the corresponding documentation for the shiny app:
 https://effzeh.shinyapps.io/Course_Project/
 
+The code (server.R, ui.R) for this app can be found in:
+https://github.com/christianwerres/09-Developing-Data-Products
+
 The app "Titanic - Prediction of Survival" predicts the likeliyhood of survival based on gender (femal or male), age (child or adult) and ticket purchased for the Titanic (1st class, 2nd, 3rd or crew).
 
 The next slides outline
